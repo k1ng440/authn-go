@@ -1,4 +1,4 @@
-package: github.com/keratin/authn-go
+package: github.com/k1ng440/authn-go
 import:
 - package: github.com/patrickmn/go-cache
   version: ^2.1.0
