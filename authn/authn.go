@@ -1,6 +1,8 @@
 package authn
 
-import "time"
+import (
+	"time"
+)
 
 // TODO: jose/jwt references are all over the place. Refactor possible?
 
